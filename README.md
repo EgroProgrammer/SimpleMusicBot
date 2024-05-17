@@ -11,7 +11,7 @@ Enhance your Discord server's musical experience with this versatile and user-fr
 
 ---
 
-# Музыкальный бот для Discord
+# SimpleMusicBot
 
 Этот музыкальный бот для Discord, написанный на Python, доставит ваши любимые треки с YouTube прямо на ваш сервер. Основные функции включают:
 
